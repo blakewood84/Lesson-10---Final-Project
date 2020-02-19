@@ -139,13 +139,12 @@ header.splash p {
 
 #about-trigger
 {
-    background-color:#E63946;
+    
 }
 #about {
     width: 100%;
     height: 100px;
     overflow: hidden;
-    background-color:#E63946;
 }
 #about h2
 {
@@ -155,13 +154,11 @@ header.splash p {
 #about .p-title
 {
     font-weight: 700;
-    color:antiquewhite;
     font-size:22px;
 }
 #about p
 {
     font-weight: 700;
-    color:antiquewhite;
     font-size:16px
     
 }
