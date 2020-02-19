@@ -159,7 +159,8 @@ header.splash p {
 #about p
 {
     font-weight: 700;
-    font-size:16px
+    font-size:16px;
+    color:#000;
     
 }
 #about .paragraph
